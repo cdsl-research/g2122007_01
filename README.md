@@ -1,1 +1,1 @@
-# 河竹純一＿コンピュータサイエンス企画リポジトリ
+# WATSS (WSN's Automatically Time Syncronization System)
